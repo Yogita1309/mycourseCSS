@@ -1,3 +1,0 @@
-# mycourseCSS
-solutions
-css
